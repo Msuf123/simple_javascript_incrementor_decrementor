@@ -1,0 +1,25 @@
+h1{
+width:max-content;
+margin:30vh auto 40px auto;
+font-size:4em;
+}
+#number{
+display:block;
+margin:auto;
+width:max-content;
+font-size:3em;
+}
+.click{
+display:flex;
+margin:auto;
+justify-content:space-around;
+width:max-content;
+}
+.buttons{
+font-size:2em;
+margin:20px;
+display:block;
+padding:10px;
+border:3px solid black;
+border-radius:20px;
+}
